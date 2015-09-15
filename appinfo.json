@@ -1,0 +1,54 @@
+{
+    "appKeys": {
+        "KEY_CITY": 1,
+        "KEY_STATUS": 0,
+        "KEY_STREET": 2
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Astound",
+    "longName": "Safe",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/simplisafe.png",
+                "menuIcon": true,
+                "name": "IMAGE_SIMPLISAFE",
+                "type": "png"
+            },
+            {
+                "file": "images/off.png",
+                "name": "IMAGE_OFF",
+                "type": "png"
+            },
+            {
+                "file": "images/menu.png",
+                "name": "IMAGE_MENU",
+                "type": "png"
+            },
+            {
+                "file": "images/home.png",
+                "name": "IMAGE_HOME",
+                "type": "png"
+            },
+            {
+                "file": "images/away.png",
+                "name": "IMAGE_AWAY",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Safe",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "47b18807-fe9b-44f9-bd37-eac58f4e9745",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
